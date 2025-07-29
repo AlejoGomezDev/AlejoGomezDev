@@ -31,13 +31,16 @@ En mi tiempo libre me gusta aprender nuevas tecnologías que me permitan tener u
 <div style="font-size:20px">
 <h2 style="font-size:40px;">Tecnologías 📚</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,mysql,postgres,js,html,css,react,astro,tailwind,bootstrap,nodejs,net,azure,git,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,mysql,postgres,js,html,css,react,astro,tailwind,bootstrap,nodejs,net,azure,git,express,eclipse,vscode,vite&perline=10)](https://skillicons.dev)
 
 </div>
 <div>
 <h2 style="font-size:40px;">Estadísticas 📊</h2>
+<div style="display:flex; gap:2em">
 
 ![AlejoGomezDev's Stats](https://github-readme-stats.vercel.app/api?username=AlejoGomezDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![AlejoGomezDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGomezDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+<div>
 </div>
