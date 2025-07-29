@@ -1,7 +1,4 @@
-<h1 style="text-align:center; font-size:40px" > ¡Hola, soy <b> Alejo Gomez </b>!</h1>
-
-<hr style="height:1px">
-
+<h1 style="text-align:center; font-size:50px" > ¡Hola, soy <b> Alejo Gomez </b>!</h1>
 <div>
     <a href="https://www.linkedin.com/in/alejogomez04" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejoGomez04"/>
@@ -14,9 +11,8 @@
     </a>
 </div>
 
-<div style="font-size:15px">
-<h2 style="font-size:30px;">Sobre mí 🖥️🎓</h2>
-<hr style="height:1px;">
+<div style="font-size:20px">
+<h2 style="font-size:40px;">Sobre mí 🖥️🎓</h2>
 <p >
 Soy Programador Junior y Técnico Universitario en Programación, graduado en la Universidad Tecnológica Nacional (UTN) en Buenos Aires, Argentina.
 
@@ -32,8 +28,7 @@ En mi tiempo libre me gusta aprender nuevas tecnologías que me permitan tener u
 
 </p>
 </div>
-<div style="font-size:15px">
-<h2 style="font-size:30px;">Tecnologías 📚</h2>
-<hr style="height:1px;">
+<div style="font-size:20px">
+<h2 style="font-size:40px;">Tecnologías 📚</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=5)](https://skillicons.dev)
 </div>
