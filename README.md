@@ -7,7 +7,7 @@
     <img align="center" src="https://img.shields.io/badge/Portfolio web-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="porfolioweb">
     </a>
     <a href="https://alejogomez.vercel.app">
-    <img align="center" src="https://img.shields.io/badge/mi curriculum vitae-308A89?style=for-the-badge&logo=linkedin&logoColor=white" alt="curriculumVitae">
+    <img align="center" src="https://img.shields.io/badge/curriculum vitae-308A89?style=for-the-badge&logo=linkedin&logoColor=white" alt="curriculumVitae">
     </a>
 </div>
 
@@ -30,5 +30,14 @@ En mi tiempo libre me gusta aprender nuevas tecnologías que me permitan tener u
 </div>
 <div style="font-size:20px">
 <h2 style="font-size:40px;">Tecnologías 📚</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,mysql,postgres,js,html,css,react,astro,tailwind,bootstrap,nodejs,net,azure,git,express)](https://skillicons.dev)
+
+</div>
+<div>
+<h2 style="font-size:40px;">Estadísticas 📊</h2>
+
+![AlejoGomezDev's Stats](https://github-readme-stats.vercel.app/api?username=AlejoGomezDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![AlejoGomezDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoGomezDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
