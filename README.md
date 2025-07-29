@@ -1,12 +1,12 @@
 <h1 style="text-align:center; font-size:50px" > ¡Hola, soy <b> Alejo Gomez </b>!</h1>
 <div style="display:flex; gap:2em;">
-    <a href="https://www.linkedin.com/in/alejogomez04" target="blank">
+    <a target="_blank" href="https://www.linkedin.com/in/alejogomez04" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejoGomez04"/>
     </a>
-    <a href="https://alejogomez.vercel.app">
+    <a target="_blank" href="https://alejogomez.vercel.app">
     <img align="center" src="https://img.shields.io/badge/Portfolio web-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="porfolioweb">
     </a>
-    <a href="https://docs.google.com/document/d/1LhV-8XImLrJmY3zIBHWOTDwyx2Km6vq_vQwDacVZEV4/edit?usp=sharing">
+    <a target="_blank" href="https://docs.google.com/document/d/1LhV-8XImLrJmY3zIBHWOTDwyx2Km6vq_vQwDacVZEV4/edit?usp=sharing">
     <img align="center" src="https://img.shields.io/badge/curriculum vitae-308A89?style=for-the-badge&logo=linkedin&logoColor=white" alt="curriculumVitae">
     </a>
 </div>
