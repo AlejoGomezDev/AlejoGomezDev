@@ -14,7 +14,8 @@
 <div style="font-size:20px">
 <h2 style="font-size:40px;">Sobre mí 🖥️🎓</h2>
 <p >
-Soy Programador Junior y Técnico Universitario en Programación, graduado en la Universidad Tecnológica Nacional (UTN) en Buenos Aires, Argentina.
+Técnico Universitario en Programación graduado DE la Universidad Tecnológica Nacional (UTN) en Buenos Aires, Argentina.
+Actualmente Desarrollador de Software en Sarsy SRL,
 
 Comencé mis estudios en 2023, y luego de 2 años de esfuerzo y dedicación, me gradué en 2025.
 
